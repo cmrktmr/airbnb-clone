@@ -1,4 +1,4 @@
-# Firebase Deployment Demo
+# Firebase Demo
 
 https://airbnb-clone-f4a72.web.app/
 
